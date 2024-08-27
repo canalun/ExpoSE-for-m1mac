@@ -17,5 +17,8 @@
   },
   "license": "",
   "main": "src/SymbolicExecution.js",
-  "devDependencies": {}
+  "devDependencies": {},
+  "volta": {
+    "node": "21.5.0"
+  }
 }
